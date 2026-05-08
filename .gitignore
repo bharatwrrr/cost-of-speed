@@ -2,3 +2,7 @@ data/.ipynb_checkpoints
 figures/.ipynb_checkpoints
 .ipynb_checkpoints
 __pycache__/
+figure_scripts/
+figures/
+figure_data/
+data/
