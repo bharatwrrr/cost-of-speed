@@ -11,11 +11,8 @@ The repository is organized as follows:
     * **access.py**: Contains core classes for preprocessing vehicle trajectories and running energy consumption simulations via FASTSim.
     * **speed_transform.py**: Contains the mathematical models used to the synthetic drive cycles from the original drive cycles from the dataset according to descriptions of the two interventions (SC1 and SC2) described in the paper.
     * **utils.py**: Provides spatial analysis tools and plotting wrappers for mapping geohashed trip data to US state geometries.
-* **SC1_SC2_demo.ipynb**: Visualizes the interventions described in the paper on a sample trajectory from the raw dataset.
 * **config.py**: Configuration file for data mount points.
-* **icev_bev_comparison.ipynb**: Generates data used for Table A3 in the paper.
-* **statewise_figures.ipynb**: Generates data for Supplementary Tables 3-7.
-
+* **table_scripts/**: Scripts to generate data for the tables in the manuscript.
 ---
 
 ## Getting Started
