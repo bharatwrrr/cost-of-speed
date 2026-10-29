@@ -42,5 +42,15 @@ The repository is organized as follows:
 
 If you use this code or these findings in your research, please cite the corresponding journal paper.
 ```bash
-Citation Coming Soon!
+@article{
+  jayaprakash2026speeding,
+  title={Speeding incurs substantial environmental and economic costs nationwide for negligible travel time savings},
+  author={Jayaprakash, Bharat and Northrop, William F},
+  journal={Communications Sustainability},
+  volume={1},
+  number={1},
+  pages={107},
+  year={2026},
+  publisher={Nature Publishing Group UK, London}
+}
 ```
